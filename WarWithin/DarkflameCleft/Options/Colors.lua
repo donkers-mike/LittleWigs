@@ -3,13 +3,14 @@ BigWigs:AddColors("Ol' Waxbeard", {
 	[422116] = {"blue","orange"},
 	[422245] = "purple",
 	[423693] = {"blue","red"},
+	[429093] = "yellow",
 })
 
 BigWigs:AddColors("Blazikon", {
 	[421817] = {"blue","yellow"},
-	[422700] = "cyan",
+	[421910] = "cyan",
 	[423109] = "red",
-	[424212] = "orange",
+	[424212] = {"blue","orange"},
 	[425394] = "cyan",
 	[443835] = "purple",
 })
@@ -17,6 +18,8 @@ BigWigs:AddColors("Blazikon", {
 BigWigs:AddColors("The Candle King", {
 	[420659] = "cyan",
 	[420696] = "orange",
+	[421067] = "blue",
+	[421653] = "blue",
 	[422648] = {"blue","orange"},
 	[426145] = "red",
 })
@@ -26,7 +29,8 @@ BigWigs:AddColors("The Darkness", {
 	[427011] = {"blue","red"},
 	[427025] = "orange",
 	[427157] = "cyan",
-	[427176] = "yellow",
+	[427176] = "red",
+	[428266] = "yellow",
 })
 
 BigWigs:AddColors("Darkflame Cleft Trash", {
@@ -39,9 +43,9 @@ BigWigs:AddColors("Darkflame Cleft Trash", {
 	[426260] = "orange",
 	[426261] = "yellow",
 	[426295] = "red",
-	[426619] = {"blue","red","yellow"},
+	[426619] = {"blue","red"},
 	[426883] = "orange",
-	[428019] = {"blue","red"},
+	[428019] = {"blue","red","yellow"},
 	[428066] = "yellow",
 	[428650] = {"blue","red"},
 	[430171] = "yellow",

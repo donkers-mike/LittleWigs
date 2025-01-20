@@ -2,6 +2,7 @@
 BigWigs:AddColors("Brew Master Aldryr", {
 	[431895] = {"blue","green"},
 	[432179] = "red",
+	[432196] = "blue",
 	[432198] = "orange",
 	[432229] = "purple",
 	[442525] = {"cyan","green"},
@@ -9,15 +10,16 @@ BigWigs:AddColors("Brew Master Aldryr", {
 
 BigWigs:AddColors("I'pa", {
 	[439031] = "purple",
-	[439202] = {"blue","yellow"},
+	[439202] = {"blue","orange"},
 	[439365] = "yellow",
-	[440147] = "yellow",
+	[440147] = "red",
+	[441179] = "blue",
 })
 
 BigWigs:AddColors("Benk Buzzbee", {
 	[438025] = "yellow",
 	[439524] = "red",
-	[440134] = "purple",
+	[440134] = {"blue","purple"},
 })
 
 BigWigs:AddColors("Goldie Baronbottom", {
@@ -29,7 +31,6 @@ BigWigs:AddColors("Goldie Baronbottom", {
 
 BigWigs:AddColors("Cinderbrew Meadery Trash", {
 	[434706] = "orange",
-	[434761] = "yellow",
 	[434998] = "red",
 	[437721] = "red",
 	[437956] = {"blue","orange"},

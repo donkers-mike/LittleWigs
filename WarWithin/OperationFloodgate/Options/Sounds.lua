@@ -7,7 +7,7 @@ BigWigs:AddSounds("Big M.O.M.M.A.", {
 	[473220] = {"alarm","warning"},
 	[473287] = "underyou",
 	[473351] = "alert",
-	[1214780] = "alarm",
+	[1214780] = "warning",
 })
 
 BigWigs:AddSounds("Demolition Duo", {
@@ -15,12 +15,13 @@ BigWigs:AddSounds("Demolition Duo", {
 	[459799] = "alert",
 	[460867] = "long",
 	[470090] = "long",
-	[473713] = "alert",
+	[473690] = {"alarm","info"},
 	[1217653] = "alarm",
 })
 
 BigWigs:AddSounds("Swampface", {
 	[469478] = "alert",
+	[470039] = "info",
 	[473070] = "long",
 	[473114] = "alarm",
 })
@@ -36,11 +37,13 @@ BigWigs:AddSounds("Geezle Gigazap", {
 BigWigs:AddSounds("Operation: Floodgate Trash", {
 	[462771] = "alert",
 	[463058] = "alert",
+	[465408] = "info",
 	[465666] = "alert",
 	[465682] = "alarm",
 	[465754] = "alarm",
 	[465813] = "alert",
 	[465827] = "info",
+	[468726] = "info",
 	[469721] = "alert",
 	[469799] = "info",
 	[469818] = "alarm",

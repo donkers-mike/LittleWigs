@@ -3,19 +3,22 @@ BigWigs:AddSounds("Ol' Waxbeard", {
 	[422116] = "alarm",
 	[422245] = "alert",
 	[423693] = {"info","warning"},
+	[429093] = "long",
 })
 
 BigWigs:AddSounds("Blazikon", {
 	[421817] = "long",
-	[422700] = "info",
+	[421910] = "info",
 	[423109] = "alarm",
-	[424212] = "alarm",
+	[424212] = {"alarm","underyou"},
 	[425394] = "info",
 	[443835] = "warning",
 })
 
 BigWigs:AddSounds("The Candle King", {
 	[420659] = "info",
+	[421067] = "underyou",
+	[421653] = "info",
 	[422648] = {"alarm","warning"},
 	[426145] = "alert",
 })
@@ -26,6 +29,7 @@ BigWigs:AddSounds("The Darkness", {
 	[427025] = "alarm",
 	[427157] = "alert",
 	[427176] = "alert",
+	[428266] = "long",
 })
 
 BigWigs:AddSounds("Darkflame Cleft Trash", {
@@ -43,7 +47,7 @@ BigWigs:AddSounds("Darkflame Cleft Trash", {
 	[428019] = "alert",
 	[428066] = "info",
 	[428650] = "warning",
-	[430171] = "alert",
+	[430171] = "info",
 	[440652] = {"alarm","underyou"},
 	["minecart"] = {"info","long"},
 })

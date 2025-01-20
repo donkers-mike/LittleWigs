@@ -2,6 +2,7 @@
 BigWigs:AddSounds("Brew Master Aldryr", {
 	[431895] = "info",
 	[432179] = "alert",
+	[432196] = "underyou",
 	[432198] = "alarm",
 	[432229] = "alert",
 	[442525] = {"info","long"},
@@ -9,15 +10,16 @@ BigWigs:AddSounds("Brew Master Aldryr", {
 
 BigWigs:AddSounds("I'pa", {
 	[439031] = "alert",
-	[439202] = "long",
+	[439202] = "alert",
 	[439365] = "long",
 	[440147] = "alarm",
+	[441179] = "underyou",
 })
 
 BigWigs:AddSounds("Benk Buzzbee", {
 	[438025] = "info",
 	[439524] = "alert",
-	[440134] = "alarm",
+	[440134] = {"alarm","underyou"},
 })
 
 BigWigs:AddSounds("Goldie Baronbottom", {
@@ -29,7 +31,6 @@ BigWigs:AddSounds("Goldie Baronbottom", {
 
 BigWigs:AddSounds("Cinderbrew Meadery Trash", {
 	[434706] = "alarm",
-	[434761] = "alarm",
 	[434998] = "long",
 	[437721] = "alert",
 	[437956] = "alarm",
